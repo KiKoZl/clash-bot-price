@@ -2,7 +2,7 @@
 Bot Clash of cars
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cleot/CoinGecko-Discord-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KiKoZl/clash-bot-price)
 
 Bot created to be hosted to HEROKU, if you want to use the BOT in other HOST you need small modifications
 
