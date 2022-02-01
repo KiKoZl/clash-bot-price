@@ -1,6 +1,3 @@
-# https://github.com/juliankoh/ribbon-discord-bot
-# https://github.com/melenxyz/abracadabra-tvl-bot
-
 import discord
 from discord.ext import tasks
 import os
