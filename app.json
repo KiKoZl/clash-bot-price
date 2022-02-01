@@ -1,20 +1,20 @@
 {
-  "name": "CoinGecko-Discord-Bot",
-  "description": "Discord bot which displays CoinGecko crypto prices.",
-  "repository": "https://github.com/cleot/CoinGecko-Discord-Bot",
-  "keywords": ["CoinGecko", "Discord", "Bot", "Crypto0", "Price", "Ticker"],
+  "name": "clash-bot-price",
+  "description": "Discord bot which displays Clash of cars token price.",
+  "repository": "https://github.com/KiKoZl/clash-bot-price",
+  "keywords": ["Clashofcars", "Discord", "Bot", "clash", "Price", "Ticker"],
   "env": {
     "CONTRACT": {
       "description": "Contract of the token/asset: e.g. 0xdac17f958d2ee523a2206206994597c13d831ec7",
-      "value": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+      "value": "3aAYh35n81F8HPG2QBdE48aYdzGFj2fsLccg91X4AcRc"
     },
     "NAME": {
       "description": "Name of the token/asset which will be shown before the price.",
-      "value": "USDT"
+      "value": "$CLASH"
     },
     "CHAIN": {
       "description": "Chain of the token. probably ethereum",
-      "value": "ethereum"
+      "value": "solana"
     },
     "DISCORD_TOKEN":{
       "description": "API token of the Discord bot."
