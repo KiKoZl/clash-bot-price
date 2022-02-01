@@ -17,14 +17,14 @@ Deploy to Heroku:
 7. Start worker (Resources)
 
 
-HEROKU Example Config Vars:
+HEROKU Config Vars:
 
 - DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
 - REFRESH_TIMER=60
-- CONTRACT=0xdac17f958d2ee523a2206206994597c13d831ec7
-- CHAIN=ethereum # https://api.coingecko.com/api/v3/asset_platforms
+- CONTRACT=3aAYh35n81F8HPG2QBdE48aYdzGFj2fsLccg91X4AcRc
+- CHAIN=solana # https://api.coingecko.com/api/v3/asset_platforms
 - CURRENCY=usd
-- NAME=USDT
+- NAME=CLASH
 
 Discord bot setup:
 1. Go to https://discord.com/developers/
