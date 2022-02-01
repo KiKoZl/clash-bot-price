@@ -23,7 +23,7 @@ async def get_price():
             if r.status == 200:
                 js = await r.json()
                 price = js[CONTRACT][CURRENCY]
-                pricestring = (f"{NAME}: ↗ R${price}")
+                pricestring = (f"{NAME}: ↗ ${price}")
                 return pricestring
 
 @client.event
