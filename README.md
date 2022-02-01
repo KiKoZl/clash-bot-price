@@ -1,10 +1,10 @@
-# CoinGecko-Discord-Bot
-CoinGeckoBot Discord Crypto Price Bot
+# Clash of cars Price bot USD
+Bot Clash of cars
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cleot/CoinGecko-Discord-Bot)
 
-
+Bot created to be hosted to HEROKU, if you want to use the BOT in other HOST you need small modifications
 
 Deploy to Heroku:
 
